@@ -1,0 +1,56 @@
+.pokedex span{
+    text-transform: capitalize;
+}
+
+.pokedex img {
+    height: 10rem;
+    width: 10rem;
+}
+.col.pokedex {
+    margin: 4rem 0;
+}
+.pokedex h3{
+    text-transform: capitalize ;
+}
+
+.row.align-items-center.description {
+    margin-top: 4%;
+}
+
+a.card-link {
+    color: #000;
+}
+
+.card-footer h5{
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+.card-footer a {
+    color: #000;
+    text-decoration: none;
+}
+
+
+
+@media all and (max-width: 500px) { 
+
+    .pokemon-card-body .row {
+        flex-direction: column;
+    }
+    .description p {
+        padding-top: 2rem;
+    }
+    .text {
+        padding: 0;
+    }
+    .div-progress {
+        margin-top: 1rem;
+    }
+    .m-1 {
+        margin: 0;
+    }
+
+    
+
+ }
