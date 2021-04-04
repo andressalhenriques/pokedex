@@ -6,4 +6,4 @@ Pokedex Languages:
 API : https://pokeapi.co/api/v2/pokemon?limit=50
 
 
-Website: http://pokedex.andressahenriques.com/
+Website: https://pokedex.andressahenriques.com/
